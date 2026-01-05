@@ -12,3 +12,18 @@ C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 0501026\obj
 C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 0501026\obj\Debug\net10.0\EXO DU 0501026.pdb
 C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 0501026\obj\Debug\net10.0\EXO DU 0501026.genruntimeconfig.cache
 C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 0501026\obj\Debug\net10.0\ref\EXO DU 0501026.dll
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO DU 0501026\bin\Debug\net10.0\EXO DU 0501026.exe
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO DU 0501026\bin\Debug\net10.0\EXO DU 0501026.deps.json
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO DU 0501026\bin\Debug\net10.0\EXO DU 0501026.runtimeconfig.json
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO DU 0501026\bin\Debug\net10.0\EXO DU 0501026.dll
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO DU 0501026\bin\Debug\net10.0\EXO DU 0501026.pdb
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO DU 0501026\obj\Debug\net10.0\EXO DU 0501026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO DU 0501026\obj\Debug\net10.0\EXO DU 0501026.AssemblyInfoInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO DU 0501026\obj\Debug\net10.0\EXO DU 0501026.AssemblyInfo.cs
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO DU 0501026\obj\Debug\net10.0\EXO DU 0501026.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO DU 0501026\obj\Debug\net10.0\EXO DU 0501026.sourcelink.json
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO DU 0501026\obj\Debug\net10.0\EXO DU 0501026.dll
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO DU 0501026\obj\Debug\net10.0\refint\EXO DU 0501026.dll
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO DU 0501026\obj\Debug\net10.0\EXO DU 0501026.pdb
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO DU 0501026\obj\Debug\net10.0\EXO DU 0501026.genruntimeconfig.cache
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO DU 0501026\obj\Debug\net10.0\ref\EXO DU 0501026.dll

@@ -16,8 +16,85 @@ Créer une application de type console en C# permettant:
 * Le nombre de tentatives pourra être limité via un système de vie, au besoin
 */
 
-int NiveauFacile = 10;
-int NiveauInter = 5;
-int NiveauDifficcile = 3;
-int NiveauExpert = 1;
+        Console.WriteLine("=== JEU DE PIONS DE COULEURS ===");
+        Console.WriteLine("Choisissez la difficulté :");
+        Console.WriteLine("1 - Facile (4 pions)");
+        Console.WriteLine("2 - Moyen (6 pions)");
+        Console.WriteLine("3 - Difficile (8 pions)");
+        Console.WriteLine("4 - Expert (10 pions)");
+
+        int longueur = 4;
+        int vies = 12;
+        
+        switch (Console.ReadLine())
+        {
+            case "2": longueur = 6; vies = 10; break;
+            case "3": longueur = 8; vies = 8; break;
+            case "4": longueur = 10; vies = 6; break;
+        }
+
+        char[] couleurs = { 'R', 'B', 'J', 'V', 'N', 'O' };
+        Random random = new Random();
+
+        List<char> secret = new List<char>();
+        for (int i = 0; i < longueur; i++)
+            secret.Add(couleurs[random.Next(couleurs.Length)]);
+
+        Console.WriteLine($"\nCouleurs possibles : R B J V N O");
+        Console.WriteLine($"Entrez une combinaison de {longueur} lettres.");
+
+        while (vies > 0)
+        {
+            Console.Write($"\nTentative ({vies} vies restantes) : ");
+            string saisie = Console.ReadLine().ToUpper();
+
+            if (saisie.Length != longueur)
+            {
+                Console.WriteLine("Mauvaise longueur.");
+                continue;
+            }
+
+            int bienPlaces = 0;
+            int malPlaces = 0;
+
+            List<char> secretTemp = new List<char>(secret);
+            bool[] utilises = new bool[longueur];
+
+            // Bien placés
+            for (int i = 0; i < longueur; i++)
+            {
+                if (saisie[i] == secret[i])
+                {
+                    bienPlaces++;
+                    utilises[i] = true;
+                    secretTemp[i] = '*';
+                }
+            }
+
+            // Mal placés
+            for (int i = 0; i < longueur; i++)
+            {
+                if (!utilises[i] && secretTemp.Contains(saisie[i]))
+                {
+                    malPlaces++;
+                    secretTemp[secretTemp.IndexOf(saisie[i])] = '*';
+                }
+            }
+
+            if (bienPlaces == longueur)
+            {
+                Console.WriteLine("Bravo ! Vous avez trouvé la combinaison !");
+                return;
+            }
+
+            Console.WriteLine($"Bien placés : {bienPlaces}");
+            Console.WriteLine($"Mal placés : {malPlaces}");
+            Console.WriteLine($"Absents : {longueur - bienPlaces - malPlaces}");
+
+            vies--;
+        }
+
+        Console.WriteLine("\nVous avez perdu !");
+        Console.WriteLine($"La combinaison était : {string.Join("", secret)}");
+    
 

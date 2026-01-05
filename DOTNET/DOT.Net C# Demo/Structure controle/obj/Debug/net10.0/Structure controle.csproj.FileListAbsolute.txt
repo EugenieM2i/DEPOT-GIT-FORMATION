@@ -1,0 +1,14 @@
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\Structure controle\bin\Debug\net10.0\Structure controle.exe
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\Structure controle\bin\Debug\net10.0\Structure controle.deps.json
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\Structure controle\bin\Debug\net10.0\Structure controle.runtimeconfig.json
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\Structure controle\bin\Debug\net10.0\Structure controle.dll
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\Structure controle\bin\Debug\net10.0\Structure controle.pdb
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\Structure controle\obj\Debug\net10.0\Structure controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\Structure controle\obj\Debug\net10.0\Structure controle.AssemblyInfoInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\Structure controle\obj\Debug\net10.0\Structure controle.AssemblyInfo.cs
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\Structure controle\obj\Debug\net10.0\Structure controle.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\Structure controle\obj\Debug\net10.0\Structure controle.dll
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\Structure controle\obj\Debug\net10.0\refint\Structure controle.dll
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\Structure controle\obj\Debug\net10.0\Structure controle.pdb
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\Structure controle\obj\Debug\net10.0\Structure controle.genruntimeconfig.cache
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\Structure controle\obj\Debug\net10.0\ref\Structure controle.dll

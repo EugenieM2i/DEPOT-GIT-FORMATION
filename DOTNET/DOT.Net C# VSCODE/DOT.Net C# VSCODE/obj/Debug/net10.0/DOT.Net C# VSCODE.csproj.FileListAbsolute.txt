@@ -1,0 +1,14 @@
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# VSCODE\DOT.Net C# VSCODE\bin\Debug\net10.0\DOT.Net C# VSCODE.exe
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# VSCODE\DOT.Net C# VSCODE\bin\Debug\net10.0\DOT.Net C# VSCODE.deps.json
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# VSCODE\DOT.Net C# VSCODE\bin\Debug\net10.0\DOT.Net C# VSCODE.runtimeconfig.json
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# VSCODE\DOT.Net C# VSCODE\bin\Debug\net10.0\DOT.Net C# VSCODE.dll
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# VSCODE\DOT.Net C# VSCODE\bin\Debug\net10.0\DOT.Net C# VSCODE.pdb
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# VSCODE\DOT.Net C# VSCODE\obj\Debug\net10.0\DOT.Net C# VSCODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# VSCODE\DOT.Net C# VSCODE\obj\Debug\net10.0\DOT.Net C# VSCODE.AssemblyInfoInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# VSCODE\DOT.Net C# VSCODE\obj\Debug\net10.0\DOT.Net C# VSCODE.AssemblyInfo.cs
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# VSCODE\DOT.Net C# VSCODE\obj\Debug\net10.0\DOT.Net C# VSCODE.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# VSCODE\DOT.Net C# VSCODE\obj\Debug\net10.0\DOT.Net C# VSCODE.dll
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# VSCODE\DOT.Net C# VSCODE\obj\Debug\net10.0\refint\DOT.Net C# VSCODE.dll
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# VSCODE\DOT.Net C# VSCODE\obj\Debug\net10.0\DOT.Net C# VSCODE.pdb
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# VSCODE\DOT.Net C# VSCODE\obj\Debug\net10.0\DOT.Net C# VSCODE.genruntimeconfig.cache
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# VSCODE\DOT.Net C# VSCODE\obj\Debug\net10.0\ref\DOT.Net C# VSCODE.dll

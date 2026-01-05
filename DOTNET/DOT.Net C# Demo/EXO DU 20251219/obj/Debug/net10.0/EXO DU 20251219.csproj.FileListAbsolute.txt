@@ -1,0 +1,14 @@
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 20251219\obj\Debug\net10.0\EXO DU 20251219.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 20251219\obj\Debug\net10.0\EXO DU 20251219.AssemblyInfoInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 20251219\obj\Debug\net10.0\EXO DU 20251219.AssemblyInfo.cs
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 20251219\obj\Debug\net10.0\EXO DU 20251219.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 20251219\bin\Debug\net10.0\EXO DU 20251219.exe
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 20251219\bin\Debug\net10.0\EXO DU 20251219.deps.json
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 20251219\bin\Debug\net10.0\EXO DU 20251219.runtimeconfig.json
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 20251219\bin\Debug\net10.0\EXO DU 20251219.dll
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 20251219\bin\Debug\net10.0\EXO DU 20251219.pdb
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 20251219\obj\Debug\net10.0\EXO DU 20251219.dll
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 20251219\obj\Debug\net10.0\refint\EXO DU 20251219.dll
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 20251219\obj\Debug\net10.0\EXO DU 20251219.pdb
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 20251219\obj\Debug\net10.0\EXO DU 20251219.genruntimeconfig.cache
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\EXO DU 20251219\obj\Debug\net10.0\ref\EXO DU 20251219.dll

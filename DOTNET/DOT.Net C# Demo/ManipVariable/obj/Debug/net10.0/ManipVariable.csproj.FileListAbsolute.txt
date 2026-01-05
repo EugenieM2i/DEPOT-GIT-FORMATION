@@ -1,0 +1,14 @@
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\ManipVariable\bin\Debug\net10.0\ManipVariable.exe
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\ManipVariable\bin\Debug\net10.0\ManipVariable.deps.json
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\ManipVariable\bin\Debug\net10.0\ManipVariable.runtimeconfig.json
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\ManipVariable\bin\Debug\net10.0\ManipVariable.dll
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\ManipVariable\bin\Debug\net10.0\ManipVariable.pdb
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\ManipVariable\obj\Debug\net10.0\ManipVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\ManipVariable\obj\Debug\net10.0\ManipVariable.AssemblyInfoInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\ManipVariable\obj\Debug\net10.0\ManipVariable.AssemblyInfo.cs
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\ManipVariable\obj\Debug\net10.0\ManipVariable.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\ManipVariable\obj\Debug\net10.0\ManipVariable.dll
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\ManipVariable\obj\Debug\net10.0\refint\ManipVariable.dll
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\ManipVariable\obj\Debug\net10.0\ManipVariable.pdb
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\ManipVariable\obj\Debug\net10.0\ManipVariable.genruntimeconfig.cache
+C:\Users\Administrateur\OneDrive - M2I\DOTNET\DOT.Net C# Demo\ManipVariable\obj\Debug\net10.0\ref\ManipVariable.dll

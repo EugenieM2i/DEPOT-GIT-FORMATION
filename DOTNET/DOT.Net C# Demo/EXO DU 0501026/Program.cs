@@ -10,7 +10,7 @@ int NiveauDifficcile = 3;
 int NiveauExpert = 1;
 
 Console.WriteLine("quel niveau souhaitez-vous utiliser ?");
-string RepUtilisateur = Console.ReadLine();
+string? RepUtilisateur = Console.ReadLine();
 
 int leChoix= RepUtilisateur switch
 {

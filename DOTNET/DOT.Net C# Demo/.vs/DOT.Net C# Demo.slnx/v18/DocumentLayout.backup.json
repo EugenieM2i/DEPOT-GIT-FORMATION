@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{91DFA643-190D-4A82-B4E8-3082EFBA6001}|EXO 1 POO crea de classes\\EXO 1 POO crea de classes.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo 1 poo crea de classes\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DFA643-190D-4A82-B4E8-3082EFBA6001}|EXO 1 POO crea de classes\\EXO 1 POO crea de classes.csproj|solutionrelative:exo 1 poo crea de classes\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DFA643-190D-4A82-B4E8-3082EFBA6001}|EXO 1 POO crea de classes\\EXO 1 POO crea de classes.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo 1 poo crea de classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DFA643-190D-4A82-B4E8-3082EFBA6001}|EXO 1 POO crea de classes\\EXO 1 POO crea de classes.csproj|solutionrelative:exo 1 poo crea de classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F557A68-31FB-4711-8E39-61E20F56B0D5}|EXO DU 0601226 LES FONCTIONS\\EXO DU 0601226 LES FONCTIONS.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo du 0601226 les fonctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F557A68-31FB-4711-8E39-61E20F56B0D5}|EXO DU 0601226 LES FONCTIONS\\EXO DU 0601226 LES FONCTIONS.csproj|solutionrelative:exo du 0601226 les fonctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,19 +39,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Chaise.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 POO crea de classes\\Chaise.cs",
+              "RelativeDocumentMoniker": "EXO 1 POO crea de classes\\Chaise.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 POO crea de classes\\Chaise.cs",
+              "RelativeToolTip": "EXO 1 POO crea de classes\\Chaise.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:08:26.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 POO crea de classes\\Program.cs",
+              "RelativeDocumentMoniker": "EXO 1 POO crea de classes\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 POO crea de classes\\Program.cs",
+              "RelativeToolTip": "EXO 1 POO crea de classes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:07:04.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO DU 0601226 LES FONCTIONS\\Program.cs",
               "RelativeDocumentMoniker": "EXO DU 0601226 LES FONCTIONS\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO DU 0601226 LES FONCTIONS\\Program.cs*",
-              "RelativeToolTip": "EXO DU 0601226 LES FONCTIONS\\Program.cs*",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAQwGcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO DU 0601226 LES FONCTIONS\\Program.cs",
+              "RelativeToolTip": "EXO DU 0601226 LES FONCTIONS\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T13:39:18.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 3 05012026\\Program.cs",
               "RelativeDocumentMoniker": "EXO 3 05012026\\Program.cs",
@@ -51,12 +85,11 @@
               "RelativeToolTip": "EXO 3 05012026\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:14:53.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T13:14:53.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO DU 0501026\\Program.cs",
               "RelativeDocumentMoniker": "EXO DU 0501026\\Program.cs",
@@ -64,12 +97,11 @@
               "RelativeToolTip": "EXO DU 0501026\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T10:56:21.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T10:56:21.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO DU 20251219\\Program.cs",
               "RelativeDocumentMoniker": "EXO DU 20251219\\Program.cs",

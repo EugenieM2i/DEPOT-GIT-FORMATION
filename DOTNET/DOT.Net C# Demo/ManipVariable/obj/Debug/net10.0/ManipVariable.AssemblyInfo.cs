@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManipVariable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d4eb1121bc8d706d57a4b9754682d444537ffaf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44cbea308176944d585143c8144f48c59a593464")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManipVariable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManipVariable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

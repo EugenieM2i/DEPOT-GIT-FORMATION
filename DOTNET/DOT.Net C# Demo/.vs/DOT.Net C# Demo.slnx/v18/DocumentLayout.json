@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91DFA643-190D-4A82-B4E8-3082EFBA6001}|EXO 1 POO crea de classes\\EXO 1 POO crea de classes.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo 1 poo crea de classes\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91DFA643-190D-4A82-B4E8-3082EFBA6001}|EXO 1 POO crea de classes\\EXO 1 POO crea de classes.csproj|solutionrelative:exo 1 poo crea de classes\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9F34F7E-DFB0-4002-A2D8-7AE93A9E14C5}|EXO POO 2 salaires\\EXO POO 2 salaires.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo poo 2 salaires\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F34F7E-DFB0-4002-A2D8-7AE93A9E14C5}|EXO POO 2 salaires\\EXO POO 2 salaires.csproj|solutionrelative:exo poo 2 salaires\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91DFA643-190D-4A82-B4E8-3082EFBA6001}|EXO 1 POO crea de classes\\EXO 1 POO crea de classes.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo 1 poo crea de classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91DFA643-190D-4A82-B4E8-3082EFBA6001}|EXO 1 POO crea de classes\\EXO 1 POO crea de classes.csproj|solutionrelative:exo 1 poo crea de classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9F34F7E-DFB0-4002-A2D8-7AE93A9E14C5}|EXO POO 2 salaires\\EXO POO 2 salaires.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo poo 2 salaires\\salari\u00E9s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F34F7E-DFB0-4002-A2D8-7AE93A9E14C5}|EXO POO 2 salaires\\EXO POO 2 salaires.csproj|solutionrelative:exo poo 2 salaires\\salari\u00E9s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Chaise.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 POO crea de classes\\Chaise.cs",
-              "RelativeDocumentMoniker": "EXO 1 POO crea de classes\\Chaise.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 POO crea de classes\\Chaise.cs",
-              "RelativeToolTip": "EXO 1 POO crea de classes\\Chaise.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAiwB8AAAAnAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO POO 2 salaires\\Program.cs",
+              "RelativeDocumentMoniker": "EXO POO 2 salaires\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO POO 2 salaires\\Program.cs",
+              "RelativeToolTip": "EXO POO 2 salaires\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T11:08:26.187Z",
+              "WhenOpened": "2026-01-07T13:31:57.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 POO crea de classes\\Program.cs",
-              "RelativeDocumentMoniker": "EXO 1 POO crea de classes\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 POO crea de classes\\Program.cs",
-              "RelativeToolTip": "EXO 1 POO crea de classes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Salari\u00E9s.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO POO 2 salaires\\Salari\u00E9s.cs",
+              "RelativeDocumentMoniker": "EXO POO 2 salaires\\Salari\u00E9s.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO POO 2 salaires\\Salari\u00E9s.cs",
+              "RelativeToolTip": "EXO POO 2 salaires\\Salari\u00E9s.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T11:07:04.701Z",
+              "WhenOpened": "2026-01-07T13:32:50.712Z",
               "EditorCaption": ""
             }
           ]

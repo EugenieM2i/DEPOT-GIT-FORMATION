@@ -1,0 +1,5 @@
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO 1 POO crea de classes\obj\Debug\net10.0\EXO 1 POO crea de classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO 1 POO crea de classes\obj\Debug\net10.0\EXO 1 POO crea de classes.AssemblyInfoInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO 1 POO crea de classes\obj\Debug\net10.0\EXO 1 POO crea de classes.AssemblyInfo.cs
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO 1 POO crea de classes\obj\Debug\net10.0\EXO 1 POO crea de classes.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO 1 POO crea de classes\obj\Debug\net10.0\EXO 1 POO crea de classes.sourcelink.json

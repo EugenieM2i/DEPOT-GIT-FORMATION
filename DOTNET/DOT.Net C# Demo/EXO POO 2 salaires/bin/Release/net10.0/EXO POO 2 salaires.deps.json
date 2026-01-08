@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EXO POO 2 salaires/1.0.0": {
+        "runtime": {
+          "EXO POO 2 salaires.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EXO POO 2 salaires/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

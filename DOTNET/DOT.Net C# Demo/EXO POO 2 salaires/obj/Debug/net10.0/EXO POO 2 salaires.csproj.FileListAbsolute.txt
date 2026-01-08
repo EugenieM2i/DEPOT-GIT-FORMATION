@@ -1,0 +1,15 @@
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO POO 2 salaires\obj\Debug\net10.0\EXO POO 2 salaires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO POO 2 salaires\obj\Debug\net10.0\EXO POO 2 salaires.AssemblyInfoInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO POO 2 salaires\obj\Debug\net10.0\EXO POO 2 salaires.AssemblyInfo.cs
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO POO 2 salaires\obj\Debug\net10.0\EXO POO 2 salaires.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO POO 2 salaires\obj\Debug\net10.0\EXO POO 2 salaires.sourcelink.json
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO POO 2 salaires\bin\Debug\net10.0\EXO POO 2 salaires.exe
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO POO 2 salaires\bin\Debug\net10.0\EXO POO 2 salaires.deps.json
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO POO 2 salaires\bin\Debug\net10.0\EXO POO 2 salaires.runtimeconfig.json
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO POO 2 salaires\bin\Debug\net10.0\EXO POO 2 salaires.dll
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO POO 2 salaires\bin\Debug\net10.0\EXO POO 2 salaires.pdb
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO POO 2 salaires\obj\Debug\net10.0\EXO POO 2 salaires.dll
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO POO 2 salaires\obj\Debug\net10.0\refint\EXO POO 2 salaires.dll
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO POO 2 salaires\obj\Debug\net10.0\EXO POO 2 salaires.pdb
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO POO 2 salaires\obj\Debug\net10.0\EXO POO 2 salaires.genruntimeconfig.cache
+C:\Users\Administrateur\OneDrive - M2I\DEPOT GIT FORMATION\DOTNET\DOT.Net C# Demo\EXO POO 2 salaires\obj\Debug\net10.0\ref\EXO POO 2 salaires.dll

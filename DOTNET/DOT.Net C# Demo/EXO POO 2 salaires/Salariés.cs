@@ -23,11 +23,20 @@ namespace EXO_POO_2_salaires
 
         }
 
-        public void AfficherSalaire()
+        public virtual void AfficherSalaire()
 
         {
             Console.WriteLine($"le salaire de {Nom}, matricule {Matricule}, est de {Salaire} euros");
 
         }
+
+
+        public override string ToString()
+        {
+            return $"le salaire de {Nom}, matricule {Matricule}, est de {Salaire} euros.";
+
+        }
+
+
     }
 }

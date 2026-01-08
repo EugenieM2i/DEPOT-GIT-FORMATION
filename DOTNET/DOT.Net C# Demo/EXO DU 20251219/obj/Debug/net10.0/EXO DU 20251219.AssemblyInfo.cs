@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EXO DU 20251219")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+476f137278610b644c2bb9e6918400b327542a86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a725ecb943afa0e059b52364ef5e06d5aea9d4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EXO DU 20251219")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EXO DU 20251219")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

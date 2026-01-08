@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9F34F7E-DFB0-4002-A2D8-7AE93A9E14C5}|EXO POO 2 salaires\\EXO POO 2 salaires.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo poo 2 salaires\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9F34F7E-DFB0-4002-A2D8-7AE93A9E14C5}|EXO POO 2 salaires\\EXO POO 2 salaires.csproj|solutionrelative:exo poo 2 salaires\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6319D658-BC06-4CA3-A372-0A3ECE3C0E1E}|EXO PENDU\\EXO PENDU.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo pendu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6319D658-BC06-4CA3-A372-0A3ECE3C0E1E}|EXO PENDU\\EXO PENDU.csproj|solutionrelative:exo pendu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9F34F7E-DFB0-4002-A2D8-7AE93A9E14C5}|EXO POO 2 salaires\\EXO POO 2 salaires.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo poo 2 salaires\\salari\u00E9s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9F34F7E-DFB0-4002-A2D8-7AE93A9E14C5}|EXO POO 2 salaires\\EXO POO 2 salaires.csproj|solutionrelative:exo poo 2 salaires\\salari\u00E9s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48E9B63D-96FF-5974-3FBC-70F2577AEF83}|EXO DU 20251219\\EXO DU 20251219.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo du 20251219\\pendu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E9B63D-96FF-5974-3FBC-70F2577AEF83}|EXO DU 20251219\\EXO DU 20251219.csproj|solutionrelative:exo du 20251219\\pendu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO POO 2 salaires\\Program.cs",
-              "RelativeDocumentMoniker": "EXO POO 2 salaires\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO POO 2 salaires\\Program.cs",
-              "RelativeToolTip": "EXO POO 2 salaires\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PENDU.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO DU 20251219\\PENDU.cs",
+              "RelativeDocumentMoniker": "EXO DU 20251219\\PENDU.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO DU 20251219\\PENDU.cs*",
+              "RelativeToolTip": "EXO DU 20251219\\PENDU.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T13:31:57.228Z",
+              "WhenOpened": "2026-01-07T15:50:45.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Salari\u00E9s.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO POO 2 salaires\\Salari\u00E9s.cs",
-              "RelativeDocumentMoniker": "EXO POO 2 salaires\\Salari\u00E9s.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO POO 2 salaires\\Salari\u00E9s.cs",
-              "RelativeToolTip": "EXO POO 2 salaires\\Salari\u00E9s.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO PENDU\\Program.cs",
+              "RelativeDocumentMoniker": "EXO PENDU\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO PENDU\\Program.cs*",
+              "RelativeToolTip": "EXO PENDU\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T13:32:50.712Z",
+              "WhenOpened": "2026-01-07T15:49:39.028Z",
               "EditorCaption": ""
             }
           ]

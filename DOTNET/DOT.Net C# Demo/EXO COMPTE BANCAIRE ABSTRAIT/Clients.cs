@@ -9,18 +9,19 @@ namespace EXO_COMPTE_BANCAIRE_ABSTRAIT
         public string Nom {  get; set; }
         public string Prenom {  get; set; }
 
-        public double Identifiant { get; set; }
+        public int Identifiant { get; set; }
         public List< CompteBancaire> ListedesComptes { get; set; }
 
         public string NumeroTel {  get; set; }
 
 
-        public Clients (string nom, string prenom, double identifiant, string numtel)
+        public Clients (string nom, string prenom, int identifiant, string numtel)
         {
             Nom = nom;
             Prenom = prenom;
             Identifiant = identifiant;
             NumeroTel = numtel;
+            ListedesComptes = new List<CompteBancaire>();
 
         }
 

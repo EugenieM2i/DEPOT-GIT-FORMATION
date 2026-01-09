@@ -7,7 +7,7 @@ namespace EXO_COMPTE_BANCAIRE_ABSTRAIT
     public class CompteEpargne : CompteBancaire
     {
         public double TauxInteret {  get; set; }
-        public CompteEpargne(Clients clients, decimal soldeInitial, double tauxInteret) : (clients,soldeInitial)
+        public CompteEpargne(Clients clients, decimal soldeInitial, double tauxInteret) : base (clients,soldeInitial)
         {
             TauxInteret = tauxInteret;
          }

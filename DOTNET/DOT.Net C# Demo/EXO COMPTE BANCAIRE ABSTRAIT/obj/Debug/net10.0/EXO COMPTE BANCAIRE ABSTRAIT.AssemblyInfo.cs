@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EXO COMPTE BANCAIRE ABSTRAIT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a725ecb943afa0e059b52364ef5e06d5aea9d4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d28907921eb290007b3e4533ca67678e19d043e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EXO COMPTE BANCAIRE ABSTRAIT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EXO COMPTE BANCAIRE ABSTRAIT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

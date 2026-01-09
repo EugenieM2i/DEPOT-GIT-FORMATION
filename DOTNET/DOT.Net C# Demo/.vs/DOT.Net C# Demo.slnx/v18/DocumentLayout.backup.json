@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo compte bancaire abstrait\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|solutionrelative:exo compte bancaire abstrait\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo compte bancaire abstrait\\compte courant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|solutionrelative:exo compte bancaire abstrait\\compte courant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo compte bancaire abstrait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|solutionrelative:exo compte bancaire abstrait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo compte bancaire abstrait\\comptepayant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +19,16 @@
       "RelativeMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|solutionrelative:exo compte bancaire abstrait\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo compte bancaire abstrait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|solutionrelative:exo compte bancaire abstrait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo compte bancaire abstrait\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|solutionrelative:exo compte bancaire abstrait\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo compte bancaire abstrait\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|solutionrelative:exo compte bancaire abstrait\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo compte bancaire abstrait\\compte courant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1C3B68-6EA8-4EA3-8DD5-E03AA5EF2852}|EXO COMPTE BANCAIRE ABSTRAIT\\EXO COMPTE BANCAIRE ABSTRAIT.csproj|solutionrelative:exo compte bancaire abstrait\\compte courant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,76 +38,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO COMPTE BANCAIRE ABSTRAIT\\Program.cs",
               "RelativeDocumentMoniker": "EXO COMPTE BANCAIRE ABSTRAIT\\Program.cs",
               "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO COMPTE BANCAIRE ABSTRAIT\\Program.cs",
               "RelativeToolTip": "EXO COMPTE BANCAIRE ABSTRAIT\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T15:39:09.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Clients.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO COMPTE BANCAIRE ABSTRAIT\\Clients.cs",
               "RelativeDocumentMoniker": "EXO COMPTE BANCAIRE ABSTRAIT\\Clients.cs",
               "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO COMPTE BANCAIRE ABSTRAIT\\Clients.cs",
               "RelativeToolTip": "EXO COMPTE BANCAIRE ABSTRAIT\\Clients.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T13:45:06.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CompteEpargne.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO COMPTE BANCAIRE ABSTRAIT\\CompteEpargne.cs",
               "RelativeDocumentMoniker": "EXO COMPTE BANCAIRE ABSTRAIT\\CompteEpargne.cs",
               "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO COMPTE BANCAIRE ABSTRAIT\\CompteEpargne.cs",
               "RelativeToolTip": "EXO COMPTE BANCAIRE ABSTRAIT\\CompteEpargne.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T15:20:17.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ComptePayant.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO COMPTE BANCAIRE ABSTRAIT\\ComptePayant.cs",
               "RelativeDocumentMoniker": "EXO COMPTE BANCAIRE ABSTRAIT\\ComptePayant.cs",
               "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO COMPTE BANCAIRE ABSTRAIT\\ComptePayant.cs",
               "RelativeToolTip": "EXO COMPTE BANCAIRE ABSTRAIT\\ComptePayant.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T14:22:19.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Compte Courant.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO COMPTE BANCAIRE ABSTRAIT\\Compte Courant.cs",
               "RelativeDocumentMoniker": "EXO COMPTE BANCAIRE ABSTRAIT\\Compte Courant.cs",
               "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO COMPTE BANCAIRE ABSTRAIT\\Compte Courant.cs",
               "RelativeToolTip": "EXO COMPTE BANCAIRE ABSTRAIT\\Compte Courant.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T14:05:26.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Operations.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO COMPTE BANCAIRE ABSTRAIT\\Operations.cs",
               "RelativeDocumentMoniker": "EXO COMPTE BANCAIRE ABSTRAIT\\Operations.cs",
@@ -120,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "CompteBancaire.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO COMPTE BANCAIRE ABSTRAIT\\CompteBancaire.cs",
               "RelativeDocumentMoniker": "EXO COMPTE BANCAIRE ABSTRAIT\\CompteBancaire.cs",
               "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO COMPTE BANCAIRE ABSTRAIT\\CompteBancaire.cs",
               "RelativeToolTip": "EXO COMPTE BANCAIRE ABSTRAIT\\CompteBancaire.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T13:42:02.132Z",
               "EditorCaption": ""

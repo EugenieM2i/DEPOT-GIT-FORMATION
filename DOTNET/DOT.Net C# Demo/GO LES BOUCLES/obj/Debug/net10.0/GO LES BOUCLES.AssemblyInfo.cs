@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GO LES BOUCLES")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b001297ba267e497c6b623a8572b5c9b65470e26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84f53dbb28791a571a41e07dae36d8122f6430ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("GO LES BOUCLES")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GO LES BOUCLES")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

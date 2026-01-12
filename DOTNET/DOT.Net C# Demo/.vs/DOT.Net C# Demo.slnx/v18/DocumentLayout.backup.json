@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{134983E4-1D9D-43D0-A185-7DAA09E6218E}|EXO 1 INTERFACE PAYPAL TOUT CA\\EXO 1 INTERFACE PAYPAL TOUT CA.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo 1 interface paypal tout ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{134983E4-1D9D-43D0-A185-7DAA09E6218E}|EXO 1 INTERFACE PAYPAL TOUT CA\\EXO 1 INTERFACE PAYPAL TOUT CA.csproj|solutionrelative:exo 1 interface paypal tout ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{134983E4-1D9D-43D0-A185-7DAA09E6218E}|EXO 1 INTERFACE PAYPAL TOUT CA\\EXO 1 INTERFACE PAYPAL TOUT CA.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo 1 interface paypal tout ca\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{134983E4-1D9D-43D0-A185-7DAA09E6218E}|EXO 1 INTERFACE PAYPAL TOUT CA\\EXO 1 INTERFACE PAYPAL TOUT CA.csproj|solutionrelative:exo 1 interface paypal tout ca\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{134983E4-1D9D-43D0-A185-7DAA09E6218E}|EXO 1 INTERFACE PAYPAL TOUT CA\\EXO 1 INTERFACE PAYPAL TOUT CA.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo 1 interface paypal tout ca\\ipaiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{134983E4-1D9D-43D0-A185-7DAA09E6218E}|EXO 1 INTERFACE PAYPAL TOUT CA\\EXO 1 INTERFACE PAYPAL TOUT CA.csproj|solutionrelative:exo 1 interface paypal tout ca\\ipaiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{134983E4-1D9D-43D0-A185-7DAA09E6218E}|EXO 1 INTERFACE PAYPAL TOUT CA\\EXO 1 INTERFACE PAYPAL TOUT CA.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo 1 interface paypal tout ca\\cartedecredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{134983E4-1D9D-43D0-A185-7DAA09E6218E}|EXO 1 INTERFACE PAYPAL TOUT CA\\EXO 1 INTERFACE PAYPAL TOUT CA.csproj|solutionrelative:exo 1 interface paypal tout ca\\cartedecredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC547FFC-6E78-444B-A277-4B7A6C660482}|EXO 1 DU 12012026 CONVERSION\\EXO 1 DU 12012026 CONVERSION.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot git formation\\dotnet\\dot.net c# demo\\exo 1 du 12012026 conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC547FFC-6E78-444B-A277-4B7A6C660482}|EXO 1 DU 12012026 CONVERSION\\EXO 1 DU 12012026 CONVERSION.csproj|solutionrelative:exo 1 du 12012026 conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPaiement.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 INTERFACE PAYPAL TOUT CA\\IPaiement.cs",
-              "RelativeDocumentMoniker": "EXO 1 INTERFACE PAYPAL TOUT CA\\IPaiement.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 INTERFACE PAYPAL TOUT CA\\IPaiement.cs",
-              "RelativeToolTip": "EXO 1 INTERFACE PAYPAL TOUT CA\\IPaiement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T14:19:58.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Paypal.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 INTERFACE PAYPAL TOUT CA\\Paypal.cs",
-              "RelativeDocumentMoniker": "EXO 1 INTERFACE PAYPAL TOUT CA\\Paypal.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 INTERFACE PAYPAL TOUT CA\\Paypal.cs",
-              "RelativeToolTip": "EXO 1 INTERFACE PAYPAL TOUT CA\\Paypal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T14:09:27.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CarteDeCredit.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 INTERFACE PAYPAL TOUT CA\\CarteDeCredit.cs",
-              "RelativeDocumentMoniker": "EXO 1 INTERFACE PAYPAL TOUT CA\\CarteDeCredit.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 INTERFACE PAYPAL TOUT CA\\CarteDeCredit.cs",
-              "RelativeToolTip": "EXO 1 INTERFACE PAYPAL TOUT CA\\CarteDeCredit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T14:09:07.991Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 INTERFACE PAYPAL TOUT CA\\Program.cs",
-              "RelativeDocumentMoniker": "EXO 1 INTERFACE PAYPAL TOUT CA\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 INTERFACE PAYPAL TOUT CA\\Program.cs",
-              "RelativeToolTip": "EXO 1 INTERFACE PAYPAL TOUT CA\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 DU 12012026 CONVERSION\\Program.cs",
+              "RelativeDocumentMoniker": "EXO 1 DU 12012026 CONVERSION\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\DEPOT GIT FORMATION\\DOTNET\\DOT.Net C# Demo\\EXO 1 DU 12012026 CONVERSION\\Program.cs",
+              "RelativeToolTip": "EXO 1 DU 12012026 CONVERSION\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T14:07:39.496Z",
+              "WhenOpened": "2026-01-12T10:32:51.301Z",
               "EditorCaption": ""
             }
           ]
